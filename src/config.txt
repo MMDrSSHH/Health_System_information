@@ -1,0 +1,2 @@
+heart : heart_attack , blood_pressure
+orthopedic : knee_ache , elbow_ache
